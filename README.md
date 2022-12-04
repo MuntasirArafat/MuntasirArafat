@@ -1,7 +1,8 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://muntasir.com)
 <h1 align="center">Hi 👋, I'm Muntasir Arafat</h1>
 <h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
-
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" >
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muntasirarafat&label=Profile%20views&color=0e75b6&style=flat" alt="muntasirarafat" /> </p>
 
 <p align="left"> <a href="https://twitter.com/muntasirdev" target="blank"><img src="https://img.shields.io/twitter/follow/muntasirdev?logo=twitter&style=for-the-badge" alt="muntasirdev" /></a> </p>
