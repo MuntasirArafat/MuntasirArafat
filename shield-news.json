@@ -2,19 +2,19 @@
   {
     "title": "Exploring the Future of AI",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbn1LLdyPorF3crpZN5KvirhzHfTnKwEsALw&s",
-    "about": "A deep dive into the advancements and implications of artificial intelligence in various sectors.",
+    "about": "implications of artificial intelligence in various sectors.",
     "blogUrl": "https://example.com/articles/ai-future"
   },
   {
     "title": "The Rise of Quantum Computing",
     "img": "https://example.com/images/quantum-computing.png",
-    "about": "An overview of quantum computing, its potential, and the challenges that lie ahead.",
+    "about": "its potential, and the challenges that lie ahead.",
     "blogUrl": "https://example.com/articles/quantum-computing"
   },
   {
     "title": "Understanding Blockchain Technology",
     "img": "https://example.com/images/blockchain.png",
-    "about": "An introduction to blockchain technology and its applications beyond cryptocurrency.",
+    "about": "and its applications beyond cryptocurrency.",
     "blogUrl": "https://example.com/articles/blockchain-technology"
   }
 ]
