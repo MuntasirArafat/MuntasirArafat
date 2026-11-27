@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](http://muntasirarafat.com)
+[![MasterHead](https://s3-cdn.cmlabs.co/page/2023/10/04/web-developer-definition-skills-and-responsibilities-908401.png)](http://muntasirarafat.com)
 <h1 align="center">Hi 👋, I'm Muntasir Arafat</h1>
 <h3 align="center">A Tech Researcher, Builder & Full Stack Explorer</h3>
 
